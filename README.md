@@ -50,11 +50,31 @@ Os demais arquivos presentes no repositório são utilizados para testes, rascun
 
 Foram gerados dois tipos principais de visualizações:
 
-- **Gráficos em Python:**  
-  Utilizando `matplotlib` e `pandas` para análises rápidas e exploração dos dados.
+### 🔹 Gráficos em Python (via matplotlib e pandas)
 
-- **Dashboards no Power BI:**  
-  Utilizando os arquivos CSV exportados pelos scripts Python para criar dashboards interativos e análises mais detalhadas.
+Utilizando `matplotlib` e `pandas` para análises rápidas e exploração dos dados.
+
+#### ➕ Exemplos de gráficos:
+
+![Figure 1](Figure_1.png)
+![Figure 2](Figure_2.png)
+![Figure 3](Figure_3.png)
+![Figure 4](Figure_4.png)
+![Figure 5](Figure_5.png)
+![Figure 6](Figure_6.png)
+![Figure 7](Figure_7.png)
+
+---
+
+### 🔸 Dashboards no Power BI
+
+Utilizando os arquivos CSV exportados pelos scripts Python para criar dashboards interativos e análises mais detalhadas.
+
+#### ➕ Exemplos de dashboards:
+
+![Power BI 1](powerbi1.jpg)
+![Power BI 2](powerbi2.jpg)
+![Power BI 3](powerbi3.jpg)
 
 ---
 
