@@ -1,7 +1,6 @@
 import pandas as pd
 import PathManager
 
-
 # Parâmetros
 pathSintomas = "regiaoCidadeSintomas.csv"
 
